@@ -1,6 +1,6 @@
 {
   "name": "double-utils",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utilities for decomposing doubles (Number) and pretty printing",
   "main": "index.js",
   "publishConfig": {
